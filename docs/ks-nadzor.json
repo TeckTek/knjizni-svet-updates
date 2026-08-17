@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.11/KS-Nadzor-1.0.11.apk",
-  "sha256": "BABC9A388C7BBBC981504A124CF738F8525E5F5D078E396CAA55CE9DA792F7D7",
-  "notes": "Berljivi administratorski pogledi za uporabnike, vloge, revizijsko sled, Affiliate/Plus, Pravljice, Skupnost, Izzive, Tržnico ter izdaje in opozorila KS. Ikona za osvežitev zdaj preveri tudi novo različico KS Nadzor in prikaže posodobitev na vrhu aplikacije."
+  "version": "1.0.12",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.12/KS-Nadzor-1.0.12.apk",
+  "sha256": "1D5B86DD3283A77D1263DFC2EC69DD429FE005338FB57C2A5B400CA84820E120",
+  "notes": "Kartici stanja Primarnega in Rezervnega strežnika sta zdaj v zavihku Pregled. Globalna ikona za osvežitev preveri strežnika, aktivno sejo in novo različico KS Nadzor; administratorski podatki ostajajo v berljivih slovenskih karticah."
 }
