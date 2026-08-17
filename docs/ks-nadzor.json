@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.9/KS-Nadzor-1.0.9.apk",
-  "sha256": "CA574287ADC030101789D762A4540E72DF2A2E88A815E83CC5D2851B167463F7",
-  "notes": "Celovit profil uporabnika z biometričnimi potrditvami in vidnimi toast napakami. Celozaslonsko nalaganje se pokaže samo pri daljših postopkih; hiter dropdown in hitri odgovori ostanejo brez nepotrebnega prekrivanja."
+  "version": "1.0.10",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.10/KS-Nadzor-1.0.10.apk",
+  "sha256": "FC5E5ECA3EE29F66E8658E0AF25B99EBA6598A5780D7271F2FADDB56E096C208",
+  "notes": "Berljivi administratorski pogledi za uporabnike, vloge, revizijsko sled, Affiliate/Plus, Pravljice, Skupnost, Izzive, Tržnico ter izdaje in opozorila KS. Datumi, stanja, uporabniki in besedila so prikazani v slovenskih karticah namesto surovega JSON-a."
 }
