@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.2/KS-Nadzor-1.0.2.apk",
-  "sha256": "F2ACCE2887ECFC238B4A8A387592806FF1469ABB5563A38AF223247C4483E30A",
-  "notes": "Varno upravljanje strežniških podatkov, boljše iskanje in revizijsko zaščiten popravek niza obiskov."
+  "version": "1.0.3",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.3/KS-Nadzor-1.0.3.apk",
+  "sha256": "750BD00A80657178CDB5568C4B3BB3D23B4B89FFA58A9C8B0A6569A1C606ECE1",
+  "notes": "Upravljanje prebranih knjig ter berljiv prikaz opomb z uporabnikom, datumom, uro in besedilom."
 }
