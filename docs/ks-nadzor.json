@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.7/KS-Nadzor-1.0.7.apk",
-  "sha256": "A3B27180CEFE6F453EEC82824FA1AA2A42DAB84F84FBEB7F5DE917904562A0A3",
-  "notes": "Nov celovit profil uporabnika: vzdevek, vloge, niz, knjige, teme, komentarji in medalje. Potrditve uporablja prstni odtis ali sistemski zaklep, vsak ukaz pa med izvajanjem prikaže celozaslonsko nalaganje. Strežniški kartici sta zložljivi in preglednejši."
+  "version": "1.0.8",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.8/KS-Nadzor-1.0.8.apk",
+  "sha256": "6644C7E7D7E278065C14EADE0A2B780D780C3B2102E07F92EC63FBF2D2543667",
+  "notes": "Celovit profil uporabnika z biometričnimi potrditvami, celozaslonskim nalaganjem in zložljivimi strežniškimi karticami. Napake se zdaj pokažejo tudi kot izrazit toast na trenutnem zaslonu, zato jih ni treba iskati na vrhu strani."
 }
