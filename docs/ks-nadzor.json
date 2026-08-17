@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.3/KS-Nadzor-1.0.3.apk",
-  "sha256": "ADA0FDE6B5743EB50853DC4FD693C2596697DC4EEE5285F46090F6385652F460",
-  "notes": "Upravljanje prebranih knjig, iskanje in spustni seznam uporabnikov ter berljiv prikaz opomb z uporabnikom, datumom, uro in besedilom."
+  "version": "1.0.4",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.4/KS-Nadzor-1.0.4.apk",
+  "sha256": "CB7A395CC59943A84656177700EC8E702F99D33158BC519781E037EEB7A0B20E",
+  "notes": "Enaka prepoznavna ikona KS Nadzor z novim žareče rdečim signalnim poudarkom. Vključuje vse funkcije izdaje 1.0.3."
 }
