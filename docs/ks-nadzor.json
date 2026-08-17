@@ -2,6 +2,6 @@
   "version": "1.0.3",
   "versionCode": 4,
   "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.3/KS-Nadzor-1.0.3.apk",
-  "sha256": "750BD00A80657178CDB5568C4B3BB3D23B4B89FFA58A9C8B0A6569A1C606ECE1",
-  "notes": "Upravljanje prebranih knjig ter berljiv prikaz opomb z uporabnikom, datumom, uro in besedilom."
+  "sha256": "ADA0FDE6B5743EB50853DC4FD693C2596697DC4EEE5285F46090F6385652F460",
+  "notes": "Upravljanje prebranih knjig, iskanje in spustni seznam uporabnikov ter berljiv prikaz opomb z uporabnikom, datumom, uro in besedilom."
 }
