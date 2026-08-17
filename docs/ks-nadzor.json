@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.4/KS-Nadzor-1.0.4.apk",
-  "sha256": "CBA9380654FF1036744A78E8C357040D992C374AE50A528F15619CB2E188C0E3",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.5/KS-Nadzor-1.0.5.apk",
+  "sha256": "6B942BA90DE6E27A1CE8BD6E7007FB56078C0972142B02654005A51003B46BCB",
   "notes": "Enaka prepoznavna ikona z žareče rdečim signalom ter celozaslonski nalagalni zaslon, ki med zagonom prepreči dotike. Vključuje vse funkcije izdaje 1.0.3."
 }
