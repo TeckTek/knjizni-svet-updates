@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.12/KS-Nadzor-1.0.12.apk",
-  "sha256": "1D5B86DD3283A77D1263DFC2EC69DD429FE005338FB57C2A5B400CA84820E120",
-  "notes": "Kartici stanja Primarnega in Rezervnega strežnika sta zdaj v zavihku Pregled. Globalna ikona za osvežitev preveri strežnika, aktivno sejo in novo različico KS Nadzor; administratorski podatki ostajajo v berljivih slovenskih karticah."
+  "version": "1.0.13",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.13/KS-Nadzor-1.0.13.apk",
+  "sha256": "FC88CC67D51BCEF3D9C7A63904D93F9B8807AE1E83C2231271EA35E18195A861",
+  "notes": "Medalje se pri podelitvi izberejo iz strežniškega seznama z ikonami, zato se bodo prikazale tudi prihodnje medalje. Klik na Statistika, Uporabniki in druge sklope premakne pogled na pravo vsebino; profil uporabnika ima bližnjice do knjig, objav in medalj."
 }
