@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.13/KS-Nadzor-1.0.13.apk",
-  "sha256": "FC88CC67D51BCEF3D9C7A63904D93F9B8807AE1E83C2231271EA35E18195A861",
-  "notes": "Medalje se pri podelitvi izberejo iz strežniškega seznama z ikonami, zato se bodo prikazale tudi prihodnje medalje. Klik na Statistika, Uporabniki in druge sklope premakne pogled na pravo vsebino; profil uporabnika ima bližnjice do knjig, objav in medalj."
+  "version": "1.0.14",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.14/KS-Nadzor-1.0.14.apk",
+  "sha256": "95D825C669281363ADD6DDDF54BD2A0E618EDC8F20B0A260B1E316EB68B8B7A0",
+  "notes": "Admin podatki so razdeljeni na Globalno in Posamezni uporabniki. Dodani so tester prošnje, diagnostika bralca, trajni izbris z biometrijo, rezervni update-mail ter popolnejše upravljanje Affiliate/Plus, obvestil, izdaj KS, skupnosti, nizov in Pravljic."
 }
