@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.18",
-    "versionCode":  19,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.18/KS-Nadzor-1.0.18.apk",
-    "sha256":  "1E0FEA944A7C22B5CFE50DCF020A5927282CF0C1DAD0E2B2E4D286AEA505FFA3",
-    "notes":  "Tretji Admin zavihek združuje vsa trajna in množična brisanja ter dve varovani ponastavitvi z enkratnim predogledom, svežo mobilno sejo, biometrijo, tipkano potrditvijo, atomsko izvedbo in revizijo."
+    "version":  "1.0.19",
+    "versionCode":  20,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.19/KS-Nadzor-1.0.19.apk",
+    "sha256":  "422B3B0A4AC7722BA49CD08F75154B41C46E63CAD7238C755F5B1E7D9B02431B",
+    "notes":  "Moderna Android-first prenova s petimi preglednimi zavihki, jasnimi predalčki, večjimi dotikalnimi cilji in enim biometričnim gumbom, ki shrani samo dejansko spremenjene podatke uporabnika."
 }
