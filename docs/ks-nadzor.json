@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "versionCode": 16,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.15/KS-Nadzor-1.0.15.apk",
-  "sha256": "69C23F133CCFBB713CBF684461C08D1EAC058E3B73A1FDB1C2E1747159C7CE1B",
-  "notes": "Po uspešnem prstnem odtisu, obrazu ali sistemskem PIN-u se prvotni klik na Admin samodejno nadaljuje, zato drugi klik ni več potreben. Izbirnika Globalno in Posamezni uporabniki imata jasen kontrast, večjo površino dotika in pravilno označeno izbrano stanje."
+  "version": "1.0.16",
+  "versionCode": 17,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.16/KS-Nadzor-1.0.16.apk",
+  "sha256": "FBF32AA698F0555CA410F508B24D9FA6EDB43E0E6F8D4D6BF87F321492BDB112",
+  "notes": "Uspešne potrditve so zdaj prikazane tudi kot zeleno lebdeče obvestilo, napake pa ostanejo jasno rdeče. Obe vrsti obvestil imata ustrezno dostopnostno najavo in sta vidni šest sekund."
 }
