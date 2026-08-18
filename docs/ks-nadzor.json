@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.14/KS-Nadzor-1.0.14.apk",
-  "sha256": "95D825C669281363ADD6DDDF54BD2A0E618EDC8F20B0A260B1E316EB68B8B7A0",
-  "notes": "Admin podatki so razdeljeni na Globalno in Posamezni uporabniki. Dodani so tester prošnje, diagnostika bralca, trajni izbris z biometrijo, rezervni update-mail ter popolnejše upravljanje Affiliate/Plus, obvestil, izdaj KS, skupnosti, nizov in Pravljic."
+  "version": "1.0.15",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.15/KS-Nadzor-1.0.15.apk",
+  "sha256": "69C23F133CCFBB713CBF684461C08D1EAC058E3B73A1FDB1C2E1747159C7CE1B",
+  "notes": "Po uspešnem prstnem odtisu, obrazu ali sistemskem PIN-u se prvotni klik na Admin samodejno nadaljuje, zato drugi klik ni več potreben. Izbirnika Globalno in Posamezni uporabniki imata jasen kontrast, večjo površino dotika in pravilno označeno izbrano stanje."
 }
