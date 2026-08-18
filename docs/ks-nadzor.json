@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.17/KS-Nadzor-1.0.17.apk",
-  "sha256": "4CE033A7E336A1A530F773B8B273DBC600431E74DE1F78C28A1F1F439D7F602B",
-  "notes": "Celovit admin center: napredni filtri uporabnikov, varen dostop in seje, Opombe workflow, ciljna verzionirana obvestila, diagnostika sistema in kataloga ter filtrirana revizija z varnim CSV izvozom."
+    "version":  "1.0.18",
+    "versionCode":  19,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v1.0.18/KS-Nadzor-1.0.18.apk",
+    "sha256":  "1E0FEA944A7C22B5CFE50DCF020A5927282CF0C1DAD0E2B2E4D286AEA505FFA3",
+    "notes":  "Tretji Admin zavihek združuje vsa trajna in množična brisanja ter dve varovani ponastavitvi z enkratnim predogledom, svežo mobilno sejo, biometrijo, tipkano potrditvijo, atomsko izvedbo in revizijo."
 }
