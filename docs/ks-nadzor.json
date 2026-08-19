@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.0",
-    "versionCode":  21,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.0/KS-Nadzor-2.0.0.apk",
-    "sha256":  "78355E570E86D420A6A8658F3120A3E4B233EDE67B3F655CE9A46B8B85B05ED2",
-    "notes":  "KS Nadzor 2.0.0 ima hitrejši zagon, profesionalno modro Android-first podobo, preglednejši nadzorni center, hitro in globinsko preverjanje strežnikov, ukazno iskanje ter večje dotikalne cilje."
+    "version":  "2.0.1",
+    "versionCode":  22,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.1/KS-Nadzor-2.0.1.apk",
+    "sha256":  "A3519BDE7A0A723C7CD88389912AB087D1E1607F42996A64D992944A66378025",
+    "notes":  "KS Nadzor 2.0.1 dodaja varen center za ročne, izbirne in periodične varnostne kopije v Admin > Podatki > Globalno, več različic kopij ter preverjeno obnovo s predhodno varnostno kopijo."
 }
