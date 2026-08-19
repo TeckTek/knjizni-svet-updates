@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.1",
-    "versionCode":  22,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.1/KS-Nadzor-2.0.1.apk",
-    "sha256":  "A3519BDE7A0A723C7CD88389912AB087D1E1607F42996A64D992944A66378025",
-    "notes":  "KS Nadzor 2.0.1 dodaja varen center za ročne, izbirne in periodične varnostne kopije v Admin > Podatki > Globalno, več različic kopij ter preverjeno obnovo s predhodno varnostno kopijo."
+    "version":  "2.0.2",
+    "versionCode":  23,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.2/KS-Nadzor-2.0.2.apk",
+    "sha256":  "588A8B22EE554271AC6E057C18D847008ACFE62C1B38EA6F2E9E5FBD5688750D",
+    "notes":  "KS Nadzor 2.0.2 odpravi napačno zahtevo po ponovni povezavi skrbniške naprave po uspešni biometriji ter doda varno brisanje celotnega Live Chata med obstoječa področja brisanja."
 }
