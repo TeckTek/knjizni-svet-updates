@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.3",
-    "versionCode":  24,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.3/KS-Nadzor-2.0.3.apk",
-    "sha256":  "9C65AC01ED9FEF4E4CD5697F858B90A536CC0DE1E2A1A38C5CEBF7749BB7ECED",
-    "notes":  "KS Nadzor 2.0.3 odpravi SocketTimeoutException pri izdelavi večje varnostne kopije in v podpisani APK preverljivo vgradi namensko 120-sekundno omejitev za backup."
+    "version":  "2.0.4",
+    "versionCode":  25,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.4/KS-Nadzor-2.0.4.apk",
+    "sha256":  "3A17F73DB92BE03242BE3F637747733122C18DCDF8C49095203CEB77B089A25F",
+    "notes":  "KS Nadzor 2.0.4 doda ločeno skrbniško odobritev prebrane knjige brez kviza; odločitev zahteva preverjanje naprave, se revizijsko zabeleži in takoj ustvari preverjeno branje."
 }
