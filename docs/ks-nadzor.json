@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.4",
-    "versionCode":  25,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v2.0.4/KS-Nadzor-2.0.4.apk",
-    "sha256":  "3A17F73DB92BE03242BE3F637747733122C18DCDF8C49095203CEB77B089A25F",
-    "notes":  "KS Nadzor 2.0.4 doda ločeno skrbniško odobritev prebrane knjige brez kviza; odločitev zahteva preverjanje naprave, se revizijsko zabeleži in takoj ustvari preverjeno branje."
+    "version":  "3.0.0",
+    "versionCode":  26,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.0.0/KS-Nadzor-3.0.0.apk",
+    "sha256":  "2CF87928243D6CF280833ADE6E902D3F08FA05A91516AB536690D6AFC8B5C383",
+    "notes":  "KS Nadzor 3.0.0 doda operativno nadzorno ploščo s prioritetnimi čakalnimi vrstami, varno lokalno delovno mizo, hitrejši ukazni iskalnik in jasnejše stanje osveževanja."
 }
