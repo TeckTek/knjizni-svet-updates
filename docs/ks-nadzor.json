@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.0",
-    "versionCode":  26,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.0.0/KS-Nadzor-3.0.0.apk",
-    "sha256":  "2CF87928243D6CF280833ADE6E902D3F08FA05A91516AB536690D6AFC8B5C383",
-    "notes":  "KS Nadzor 3.0.0 doda operativno nadzorno ploščo s prioritetnimi čakalnimi vrstami, varno lokalno delovno mizo, hitrejši ukazni iskalnik in jasnejše stanje osveževanja."
+    "version":  "3.1.0",
+    "versionCode":  27,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.1.0/KS-Nadzor-3.1.0.apk",
+    "sha256":  "B7D66FB61BE25DC6CDA8EBCAD3C674A71A68520445D334170D7550DA2DB21298",
+    "notes":  "KS Nadzor 3.1.0 doda varčna ozadna skrbniška obvestila za centralne napake, prošnje testerjev, odobritve branja in druge pomembne čakalne vrste."
 }
