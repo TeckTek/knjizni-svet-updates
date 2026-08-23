@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.1",
-    "versionCode":  28,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.1.1/KS-Nadzor-3.1.1.apk",
-    "sha256":  "35F693369A4F0B3B48907BC652AADA23E3A2652B7AFBE6FFA21723D5CE5AEEEE",
-    "notes":  "KS Nadzor 3.1.1 v funkciji Plus doda varno iskanje in izbiro registriranega uporabnika po vzdevku, javnem ID-ju ali e-pošti; dodelitev ostaja biometrično potrjena in revizijsko zabeležena."
+    "version":  "3.2.0",
+    "versionCode":  29,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.2.0/KS-Nadzor-3.2.0.apk",
+    "sha256":  "FC8424EA415D1F3E3A115419A2802C32D963EB51AE29672645848225DA99C2E3",
+    "notes":  "KS Nadzor 3.2.0 poenostavi administratorsko delo: neposredne poti do čakalnih vrst, uporabnikov, iskanja, Plusa, backupov in nastavitev, preglednejši moduli ter hitrejša varna obdelava podatkov."
 }
