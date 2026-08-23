@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.1",
-    "versionCode":  30,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.2.1/KS-Nadzor-3.2.1.apk",
-    "sha256":  "D56D37B24563D288CC8EA9F1058A28D503E220FFCDC713DAF84EDBA3B523B887",
-    "notes":  "KS Nadzor 3.2.1 na telefonu popravi berljivost dejanj v Admin → Globalno → Delo s podatki: en stolpec, večji gumbi ter celotni naslovi in opisi brez rezanja."
+    "version":  "3.2.2",
+    "versionCode":  31,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.2.2/KS-Nadzor-3.2.2.apk",
+    "sha256":  "A84F31E4813C72B6D46FC8E20BAAEC95F33FD2280C19847AED209CEFEC59AD9E",
+    "notes":  "KS Nadzor 3.2.2 zgoraj kaže točno nameščeno različico. Dotik zgornjega polja ročno preveri posodobitev in med preverjanjem jasno pokaže napredek ter rezultat."
 }
