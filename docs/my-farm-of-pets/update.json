@@ -1,0 +1,8 @@
+{
+  "versionCode": 11,
+  "versionName": "0.3.8",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.8-pilot.apk",
+  "sha256": "5222932edc5819191961ecc05406bebb47cf72e9585b1e4a84f047568807f3da",
+  "releaseNotes": "Brezplačen javni prenos prek GitHuba in stabilen kanal za prihodnje samodejne posodobitve. Vključuje Firebase prijavo, evropsko podatkovno bazo ter varnejše deljenje kmetije.",
+  "required": false
+}
