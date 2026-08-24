@@ -1,2 +1,3 @@
 5222932edc5819191961ecc05406bebb47cf72e9585b1e4a84f047568807f3da  My-Farm-of-Pets-0.3.8-pilot.apk
 561e331596c8f40d3cee98b33acc875f20c33bd4ae57672638401a1eeafe3be6  My-Farm-of-Pets-0.3.9-pilot.apk
+c9d348d94ab9533057ef2d0350d591a605b8c152aba693368c22c7f519367fa1  My-Farm-of-Pets-0.3.10-pilot.apk

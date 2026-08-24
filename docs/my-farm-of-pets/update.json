@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.9",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.9-pilot.apk",
-  "sha256": "561e331596c8f40d3cee98b33acc875f20c33bd4ae57672638401a1eeafe3be6",
-  "releaseNotes": "Popravljena Google prijava: profil se zdaj varno ustvari tudi na brezplačnem Firebase načrtu, brez napake NOT_FOUND. Dodano je prijaznejše obvestilo in osveževanje potrditvenega žetona.",
+  "versionCode": 13,
+  "versionName": "0.3.10",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.10-pilot.apk",
+  "sha256": "c9d348d94ab9533057ef2d0350d591a605b8c152aba693368c22c7f519367fa1",
+  "releaseNotes": "Dodana sta vidna gumba Administracija oziroma Moderiranje za ustrezne vloge. Podatki kmetije zdaj pravilno prikažejo že shranjeno ime, lokacijo in lastnika. Preverjanje posodobitev v ozadju je zanesljivejše in počaka na omrežno povezavo.",
   "required": false
 }
