@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.3.12",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.12-pilot.apk",
-  "sha256": "edd67ded7b6216fe6e306da00987bde3f137cc08afd1443f90f48e5bf58d26ea",
-  "releaseNotes": "Gumb Kupi zdaj jasno opozori, da Google Play plačila še niso vključena. Po potrditvi brez plačila testno odklene Družina + Plus samo za trenutni račun: do 5 družinskih članov, skupno evidenco, Plus HD in prikaz 2 GB kvote. Upravičenje ostane po ponovni prijavi in se ne prenese na drug račun.",
+  "versionCode": 16,
+  "versionName": "0.3.13",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.13-pilot.apk",
+  "sha256": "67ed6dc545c5f20deba1b4066cb90f9740be520e41225e679606e00b37333f92",
+  "releaseNotes": "Družinskega člana lahko zdaj povabiš po javnem vzdevku ali e-pošti. Če še nima računa, aplikacija pripravi sporočilo s povezavo za namestitev, povabilo pa varno počaka na prijavo in potrditev z istim preverjenim naslovom. Dodana je vloga Glava kmetije, seznam čakajočih povabil, preklic ter popolno upravljanje vlog članov brez prenosa prvotnega lastništva.",
   "required": false
 }
