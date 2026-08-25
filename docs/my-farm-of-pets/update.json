@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.3.11",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.11-pilot.apk",
-  "sha256": "908249443de2040579f4490be2f45e16de24eb6430d19d97b832d19cc8a6960d",
-  "releaseNotes": "Dodano je družinsko upravljanje za največ 5 računov: varna povabila, vlogi urejevalec in samo ogled, sprotna skupna evidenca kmetije, osebni in družinski zapiski ter varčni WebP predogledi fotografij. Sinhronizacija deluje pri odprti aplikaciji in periodično v ozadju.",
+  "versionCode": 15,
+  "versionName": "0.3.12",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.12-pilot.apk",
+  "sha256": "edd67ded7b6216fe6e306da00987bde3f137cc08afd1443f90f48e5bf58d26ea",
+  "releaseNotes": "Gumb Kupi zdaj jasno opozori, da Google Play plačila še niso vključena. Po potrditvi brez plačila testno odklene Družina + Plus samo za trenutni račun: do 5 družinskih članov, skupno evidenco, Plus HD in prikaz 2 GB kvote. Upravičenje ostane po ponovni prijavi in se ne prenese na drug račun.",
   "required": false
 }
