@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.3.15",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.15-pilot.apk",
-  "sha256": "8414c9945dc829af81034b7a643b436fb8593e6edbcc1e9c85c79c67c8c0107e",
-  "releaseNotes": "Družinsko povabilo po e-pošti zdaj preveri zaščiten imenik računov in obstoječemu uporabniku povabilo pokaže neposredno v aplikaciji; odprta aplikacija ga zazna sproti, zaprta pa tudi v ozadju. Jajca in mleko lahko hitro zabeležiš splošno po vrsti živali ali natančno za izbrano skupino oziroma žival. Jajca imajo še barvo in celo število kosov, kartici Jajca in Mleko na strani Danes na kmetiji pa nov gumb +.",
+  "versionCode": 19,
+  "versionName": "0.3.16",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.16-pilot.apk",
+  "sha256": "9ff61331a9db9c049b5d8c4a3b610f4f0656be03ad6d0d35e057cb176450d7ad",
+  "releaseNotes": "Družinska povabila po e-pošti zdaj pravilno pojasnijo, da obstoječi račun morda še ni odprl najnovejše različice, preprečijo podvojena povabila in pred preklicem zahtevajo potrditev. Pred ustvarjanjem ali sprejemom družine se samodejno shrani varnostna kopija; ročni izvoz in obnova .mfop vključujeta bazo in fotografije. Gumb Nazaj sledi zgodovini zavihkov, na začetnem zaslonu pa sta za izhod potrebna dva pritiska. Po varnem prenosu posodobitve se samodejno odpre Androidov namestitveni zaslon. Razdelki Več, Nastavitve, Moj račun in Administracija so pregledneje urejeni.",
   "required": false
 }
