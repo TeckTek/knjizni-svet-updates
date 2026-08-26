@@ -2,7 +2,7 @@
   "versionCode": 21,
   "versionName": "0.3.18",
   "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.18-pilot.apk",
-  "sha256": "724e3d96521fa4cdc854fb59c4f64205d496b2781395641e64bc22b92cb70cf7",
+  "sha256": "b28b9baad76771e3265a2fcbda9fb48fbab4df2392a8846e560c7d9087aa5d2b",
   "releaseNotes": "Zavihek Več vedno pokaže nameščeno različico ter živo stanje prenosa z odstotkom, napako ali gumbom za namestitev. Prenos ima trajno obvestilo, po preverjanju SHA-256 pa jasno dejanje za namestitev. Če so obvestila izklopljena, aplikacija to pove pred prenosom in stanje še vedno pokaže v Več. Ponovni poskus odstrani zastarel APK, neuspehi niso več tihi, končan prenos pa se obnovi tudi ob zgrešenem sistemskem dogodku.",
   "required": false
 }
