@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.3.16",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.16-pilot.apk",
-  "sha256": "9ff61331a9db9c049b5d8c4a3b610f4f0656be03ad6d0d35e057cb176450d7ad",
-  "releaseNotes": "Družinska povabila po e-pošti zdaj pravilno pojasnijo, da obstoječi račun morda še ni odprl najnovejše različice, preprečijo podvojena povabila in pred preklicem zahtevajo potrditev. Pred ustvarjanjem ali sprejemom družine se samodejno shrani varnostna kopija; ročni izvoz in obnova .mfop vključujeta bazo in fotografije. Gumb Nazaj sledi zgodovini zavihkov, na začetnem zaslonu pa sta za izhod potrebna dva pritiska. Po varnem prenosu posodobitve se samodejno odpre Androidov namestitveni zaslon. Razdelki Več, Nastavitve, Moj račun in Administracija so pregledneje urejeni.",
+  "versionCode": 20,
+  "versionName": "0.3.17",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.17-pilot.apk",
+  "sha256": "97a848b838991cf500bcf72c4de3751593b6cc53f8d563b0a0d527a7eba2611f",
+  "releaseNotes": "Nova družinska povabila so zaradi varnosti privzeto Samo ogled. Lastnik ali Glava kmetije lahko pozneje s potrditvijo spremeni člana v Urejevalca, Glavo kmetije ali nazaj v Samo ogled. Forum, komentarji, prijave vsebine in administracija zdaj delujejo tudi brez plačljivih Cloud Functions, zaščiteni z varnostnimi pravili, omejitvami hitrosti in revizijsko sledjo. Nastavitve, Moj račun, Administracija, varnostne kopije in shramba so preglednejši; dodani so pravi ukazi za izdelavo kopije in upravljanje prostora ter popravljen prikaz ob sistemski vrstici.",
   "required": false
 }
