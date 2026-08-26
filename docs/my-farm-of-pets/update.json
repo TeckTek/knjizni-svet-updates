@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.3.20",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.20-pilot.apk",
-  "sha256": "de8a7c8d32fff405bfd1f3500ae4737d6e58679e84d7985ba063043d9cc5bf79",
-  "releaseNotes": "Opomnik je lahko zaseben ali družinski. Čas lahko nastaviš na določeno uro, sončni vzhod ali sončni zahod ter izbereš do 180 minut prej ali pozneje. Izračun uporabi lokacijo kmetije oziroma koordinate, upošteva časovni pas in ne potrebuje stalnega sledenja telefonu. Družinski opomniki se sinhronizirajo članom, osebni opomniki in zapiski pa ostanejo zasebni.",
+  "versionCode": 24,
+  "versionName": "0.3.21",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.21-pilot.apk",
+  "sha256": "bd0f0494a20071d8ce646a8e911e86a2457fff0836dcf762e04c56867f5b511c",
+  "releaseNotes": "Google registracija zdaj vedno ponudi izbiro računa namesto samodejne uporabe prejšnjega. Pri registraciji z e-pošto aplikacija potrdi dejanski uspeh pošiljanja, pokaže ciljni naslov, opozori na neželeno pošto in omogoči ponovno pošiljanje. Nedokončan račun lahko po potrditvi varno nadaljuje ustvarjanje profila.",
   "required": false
 }
