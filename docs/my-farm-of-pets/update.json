@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.3.17",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.17-pilot.apk",
-  "sha256": "97a848b838991cf500bcf72c4de3751593b6cc53f8d563b0a0d527a7eba2611f",
-  "releaseNotes": "Nova družinska povabila so zaradi varnosti privzeto Samo ogled. Lastnik ali Glava kmetije lahko pozneje s potrditvijo spremeni člana v Urejevalca, Glavo kmetije ali nazaj v Samo ogled. Forum, komentarji, prijave vsebine in administracija zdaj delujejo tudi brez plačljivih Cloud Functions, zaščiteni z varnostnimi pravili, omejitvami hitrosti in revizijsko sledjo. Nastavitve, Moj račun, Administracija, varnostne kopije in shramba so preglednejši; dodani so pravi ukazi za izdelavo kopije in upravljanje prostora ter popravljen prikaz ob sistemski vrstici.",
+  "versionCode": 21,
+  "versionName": "0.3.18",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.18-pilot.apk",
+  "sha256": "724e3d96521fa4cdc854fb59c4f64205d496b2781395641e64bc22b92cb70cf7",
+  "releaseNotes": "Zavihek Več vedno pokaže nameščeno različico ter živo stanje prenosa z odstotkom, napako ali gumbom za namestitev. Prenos ima trajno obvestilo, po preverjanju SHA-256 pa jasno dejanje za namestitev. Če so obvestila izklopljena, aplikacija to pove pred prenosom in stanje še vedno pokaže v Več. Ponovni poskus odstrani zastarel APK, neuspehi niso več tihi, končan prenos pa se obnovi tudi ob zgrešenem sistemskem dogodku.",
   "required": false
 }
