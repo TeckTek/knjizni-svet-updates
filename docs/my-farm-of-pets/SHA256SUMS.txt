@@ -10,3 +10,4 @@ cc73e2e838073ea84eecf130e686fdbcd0c27aa6528979652dc7ef1cf2ae7dcb  My-Farm-of-Pet
 97a848b838991cf500bcf72c4de3751593b6cc53f8d563b0a0d527a7eba2611f  My-Farm-of-Pets-0.3.17-pilot.apk
 557a7827ea755d97e23bec6568d587cc874b4c7c353b4fea6bc511f6db3345c2  My-Farm-of-Pets-0.3.18-pilot.apk
 2852d8e9d872db373d2b91106ec9f8fef9d7a1277b285b85e5d8fac825554b7a  My-Farm-of-Pets-0.3.19-pilot.apk
+de8a7c8d32fff405bfd1f3500ae4737d6e58679e84d7985ba063043d9cc5bf79  My-Farm-of-Pets-0.3.20-pilot.apk

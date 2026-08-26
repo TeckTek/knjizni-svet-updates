@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.3.19",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.19-pilot.apk",
-  "sha256": "2852d8e9d872db373d2b91106ec9f8fef9d7a1277b285b85e5d8fac825554b7a",
-  "releaseNotes": "Popravljeno je okno ob sprejemu družinskega povabila, ko ima novi član na napravi že svojo kmetijo. Vedno so vidna in klikljiva dejanja Združi, Brez uvoza in Zavrni. Razlika med možnostmi je jasno razložena, zavrnitev pa zahteva dodatno potrditev. Osebni zapiski ostanejo zasebni, pred spremembo pa se še vedno ustvari varnostna kopija.",
+  "versionCode": 23,
+  "versionName": "0.3.20",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.20-pilot.apk",
+  "sha256": "de8a7c8d32fff405bfd1f3500ae4737d6e58679e84d7985ba063043d9cc5bf79",
+  "releaseNotes": "Opomnik je lahko zaseben ali družinski. Čas lahko nastaviš na določeno uro, sončni vzhod ali sončni zahod ter izbereš do 180 minut prej ali pozneje. Izračun uporabi lokacijo kmetije oziroma koordinate, upošteva časovni pas in ne potrebuje stalnega sledenja telefonu. Družinski opomniki se sinhronizirajo članom, osebni opomniki in zapiski pa ostanejo zasebni.",
   "required": false
 }
