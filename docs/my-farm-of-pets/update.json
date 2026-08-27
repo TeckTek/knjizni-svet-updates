@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.3.22",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.22-pilot.apk",
-  "sha256": "733f2d8428db30586a24159a4f998291822b25117031699e34bf0ebc791cdb06",
-  "releaseNotes": "Dodana sta sledljivo zmanjšanje staleža z razlogom in varno trajno brisanje napačnega profila. Varnostne kopije zdaj omogočajo popolno ali sektorsko čiščenje živali, valjenj, vzreje pod lučko, opomnikov, zapiskov in lastnih izbir. Predstavitveni podatki se ne sinhronizirajo več v družinsko kmetijo, osnovna inkubacijska navodila pa imajo stabilne identifikatorje brez podvajanja.",
+  "versionCode": 26,
+  "versionName": "0.3.23",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.23-pilot.apk",
+  "sha256": "7323e79084c441c5fb4e60064c5f9e724b270c457ed8acd69084302d611dc10c",
+  "releaseNotes": "Opomnike lahko zdaj vežeš na osem jasno ločenih luninih faz: od mlaja prek rastočih in pojemajočih krajcev do ščipa. Opozorilo je privzeto en dan prej, nastaviš pa lahko isti dan ali poljubno 0–30 dni prej in svojo uro. Lunin opomnik lahko velja enkrat ali vsak lunin cikel, deluje lokalno brez interneta ter podpira zasebno in družinsko rabo.",
   "required": false
 }
