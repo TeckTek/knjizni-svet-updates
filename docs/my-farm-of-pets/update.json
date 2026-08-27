@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.3.23",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.23-pilot.apk",
-  "sha256": "7323e79084c441c5fb4e60064c5f9e724b270c457ed8acd69084302d611dc10c",
-  "releaseNotes": "Opomnike lahko zdaj vežeš na osem jasno ločenih luninih faz: od mlaja prek rastočih in pojemajočih krajcev do ščipa. Opozorilo je privzeto en dan prej, nastaviš pa lahko isti dan ali poljubno 0–30 dni prej in svojo uro. Lunin opomnik lahko velja enkrat ali vsak lunin cikel, deluje lokalno brez interneta ter podpira zasebno in družinsko rabo.",
+  "versionCode": 27,
+  "versionName": "0.4.0",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.0-pilot.apk",
+  "sha256": "8b9d68e83eda938655f0913a7f14e823c2a0d0a55e887c5eb87da9230139e060",
+  "releaseNotes": "Nova ločena tržnica Market prinaša javno iskanje ponudbe, lepo predstavitveno stran kmetije ali posameznika, izdelke s količino in ceno, kontakt, ocene, komentarje ter prijave. Ob prvem zagonu izbereš Živina in reja, Prodaja in Market ali Oboje; začetni zaslon se prilagodi, izbiro pa lahko kadarkoli spremeniš v Nastavitvah. Ponudnik vidi stanje svoje vloge in opombo administratorja; odobritev je privzeto ročna, administrator pa lahko vključi samodejni način. Naslovne slike so varno ločene na zasebne in javno odobrene, dodano je celovito slovensko obvestilo o zasebnosti, delujejo obvestila o spremembi stanja v ozadju in opomniki po osmih luninih fazah.",
   "required": false
 }
