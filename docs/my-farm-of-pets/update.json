@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.3.21",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.21-pilot.apk",
-  "sha256": "bd0f0494a20071d8ce646a8e911e86a2457fff0836dcf762e04c56867f5b511c",
-  "releaseNotes": "Google registracija zdaj vedno ponudi izbiro računa namesto samodejne uporabe prejšnjega. Pri registraciji z e-pošto aplikacija potrdi dejanski uspeh pošiljanja, pokaže ciljni naslov, opozori na neželeno pošto in omogoči ponovno pošiljanje. Nedokončan račun lahko po potrditvi varno nadaljuje ustvarjanje profila.",
+  "versionCode": 25,
+  "versionName": "0.3.22",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.3.22-pilot.apk",
+  "sha256": "733f2d8428db30586a24159a4f998291822b25117031699e34bf0ebc791cdb06",
+  "releaseNotes": "Dodana sta sledljivo zmanjšanje staleža z razlogom in varno trajno brisanje napačnega profila. Varnostne kopije zdaj omogočajo popolno ali sektorsko čiščenje živali, valjenj, vzreje pod lučko, opomnikov, zapiskov in lastnih izbir. Predstavitveni podatki se ne sinhronizirajo več v družinsko kmetijo, osnovna inkubacijska navodila pa imajo stabilne identifikatorje brez podvajanja.",
   "required": false
 }
