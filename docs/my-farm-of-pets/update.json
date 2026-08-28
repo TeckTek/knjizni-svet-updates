@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.4.0",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.0-pilot.apk",
-  "sha256": "8b9d68e83eda938655f0913a7f14e823c2a0d0a55e887c5eb87da9230139e060",
-  "releaseNotes": "Nova ločena tržnica Market prinaša javno iskanje ponudbe, lepo predstavitveno stran kmetije ali posameznika, izdelke s količino in ceno, kontakt, ocene, komentarje ter prijave. Ob prvem zagonu izbereš Živina in reja, Prodaja in Market ali Oboje; začetni zaslon se prilagodi, izbiro pa lahko kadarkoli spremeniš v Nastavitvah. Ponudnik vidi stanje svoje vloge in opombo administratorja; odobritev je privzeto ročna, administrator pa lahko vključi samodejni način. Naslovne slike so varno ločene na zasebne in javno odobrene, dodano je celovito slovensko obvestilo o zasebnosti, delujejo obvestila o spremembi stanja v ozadju in opomniki po osmih luninih fazah.",
+  "versionCode": 28,
+  "versionName": "0.4.1",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.1-pilot.apk",
+  "sha256": "dc3c6bc29bb52bc6bc4b0c9c195704333c8f8e3dbf7b1e6edf6dd79ae20f4bfc",
+  "releaseNotes": "Market je zdaj stalni spodnji zavihek med Dnevnikom in Več, zato je dosegljiv z enim dotikom. Istih pet zavihkov ostane vidnih tudi znotraj Marketa, prehodi pa ohranijo pravilno zgodovino gumba Nazaj. Pogled Več je razbremenjen podvojene Market kartice. Vse funkcije Marketa iz 0.4.0, lunini opomniki in prilagoditev začetnega zaslona ostajajo vključeni.",
   "required": false
 }
