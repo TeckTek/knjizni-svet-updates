@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "0.5.0",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.0-pilot.apk",
-  "sha256": "3b402b54d1cf05ed7cd5ce584b20d21c7df640b2738f692e3058a4efc4ff0b40",
-  "releaseNotes": "Velika vizualna posodobitev: profesionalni profil živali in skupin z naslovno sliko, galerijo, slikovnimi opombami ter združeno zgodovino dogodkov in proizvodnje. Domača in Market slika zdaj zapolnita kartici z varnim kontrastom, domačo stran pa lahko prilagodiš ter zamenjaš obe sliki. Nova stalna kartica Obvestila pokaže neprebrane novosti in odpre pravi cilj ali center obvestil. Nove slike in opombe so vključene v varnostne kopije ter družinsko sinhronizacijo.",
+  "versionCode": 33,
+  "versionName": "0.5.1",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.1-pilot.apk",
+  "sha256": "6123801c8f26ca526964e865155c1e3b56665179923bca6a7c719bfd812c8dd9",
+  "releaseNotes": "Domača kartica Obvestila je zdaj prikazana samo ob neprebranih novostih in je takrat jasno poudarjena. Večerna kartica je nižja, pokončne lastne slike pa se prikažejo cele brez premočnega obrezovanja. Marketovo polje z napisom je bolj prosojno, domača stran pa ima zelo nežen črtni motiv, ki se premika skupaj z vsebino.",
   "required": false
 }
