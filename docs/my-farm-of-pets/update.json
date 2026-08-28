@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.4.1",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.1-pilot.apk",
-  "sha256": "dc3c6bc29bb52bc6bc4b0c9c195704333c8f8e3dbf7b1e6edf6dd79ae20f4bfc",
-  "releaseNotes": "Market je zdaj stalni spodnji zavihek med Dnevnikom in Več, zato je dosegljiv z enim dotikom. Istih pet zavihkov ostane vidnih tudi znotraj Marketa, prehodi pa ohranijo pravilno zgodovino gumba Nazaj. Pogled Več je razbremenjen podvojene Market kartice. Vse funkcije Marketa iz 0.4.0, lunini opomniki in prilagoditev začetnega zaslona ostajajo vključeni.",
+  "versionCode": 29,
+  "versionName": "0.4.2",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.2-pilot.apk",
+  "sha256": "a1f93f417b0059e0f9428574407526b857cee3c94b3093d7eeac937d75bfdc1a",
+  "releaseNotes": "Javni profil Marketa ima zdaj štiri profesionalne naslovne predloge: podeželsko kmetijo, perutnino in jajca, krave in koze ter domače pridelke. Predloge so že v aplikaciji in ne porabljajo prostora v oblaku. Še vedno lahko izbereš svojo fotografijo, jo zamenjaš ali naslovno sliko odstraniš; lastna slika se pred nalaganjem samodejno zmanjša.",
   "required": false
 }
