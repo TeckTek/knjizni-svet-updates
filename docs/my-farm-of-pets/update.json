@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.5.1",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.1-pilot.apk",
-  "sha256": "6123801c8f26ca526964e865155c1e3b56665179923bca6a7c719bfd812c8dd9",
-  "releaseNotes": "Domača kartica Obvestila je zdaj prikazana samo ob neprebranih novostih in je takrat jasno poudarjena. Večerna kartica je nižja, pokončne lastne slike pa se prikažejo cele brez premočnega obrezovanja. Marketovo polje z napisom je bolj prosojno, domača stran pa ima zelo nežen črtni motiv, ki se premika skupaj z vsebino.",
+  "versionCode": 34,
+  "versionName": "0.5.2",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.2-pilot.apk",
+  "sha256": "95148d24dd07caae43e51ba8f0b445af14d9a507648f483b92e7e63f75e96f2e",
+  "releaseNotes": "Skupine lahko varno združiš z ločeno izbiro prenosa podatkov, opomb in slik ter samodejno povratno kopijo. Živali lahko razporediš v svoje ekipe ali podskupine, opombam dodaš časovne, sončne ali lunine opomnike, izbrane živali pa po želji javno pokažeš na Market profilu brez zasebnih podatkov. Market podpira razvrščanje po novosti, bližini, ocenah in abecedi. Profil živali je preglednejši: odstranjen je podvojeni gumb Uredi, hitri gumbi se ne prekrivajo, slike se s klikom povečajo in z drugim klikom zaprejo, trajni izbris pa je umaknjen na dno v ločeno nevarno območje.",
   "required": false
 }
