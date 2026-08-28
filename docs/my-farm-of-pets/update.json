@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.4.3",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.3-pilot.apk",
-  "sha256": "4e912ec70d7ebda1229070cb2ed40469d304da2fd38b9f3cffebd9361feac2d8",
-  "releaseNotes": "Pomembna obvestila se zdaj zbirajo v novem predalu Obvestila v aplikaciji in se prikažejo tudi kot Android obvestilo. Vključeni so opomniki, družinska povabila, Market, opozorila, varnostne kopije in posodobitve. V Mojem računu je dodan neposreden dostop do profila za Market.",
+  "versionCode": 31,
+  "versionName": "0.4.4",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.4-pilot.apk",
+  "sha256": "f12cda50e29f3bf605c7b879032a304a64af85fa0129c5d7006a24cc25d7e3a3",
+  "releaseNotes": "Lastno fotografijo lahko zdaj izbereš že med ustvarjanjem vsake skupine ali posamezne živali. Slika se samodejno zmanjša in stisne ter se prikaže na seznamu in domači kartici. V podrobnostih jo lahko pozneje zamenjaš ali odstraniš in znova uporabiš osnovno ilustracijo vrste.",
   "required": false
 }
