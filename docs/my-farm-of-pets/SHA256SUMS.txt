@@ -24,3 +24,4 @@ dc3c6bc29bb52bc6bc4b0c9c195704333c8f8e3dbf7b1e6edf6dd79ae20f4bfc  My-Farm-of-Pet
 a15e2528ec5057f252e39022d124dfa8fa3683ede290399b3788ab7ab668b379  My-Farm-of-Pets-Family-Test-0.4.1.apk
 a1f93f417b0059e0f9428574407526b857cee3c94b3093d7eeac937d75bfdc1a  My-Farm-of-Pets-0.4.2-pilot.apk
 36eaa3129a6ffd2fa66aa416e8e8ec1ed72db6146f163db593a1f29c8138396a  My-Farm-of-Pets-Family-Test-0.4.2.apk
+4e912ec70d7ebda1229070cb2ed40469d304da2fd38b9f3cffebd9361feac2d8  My-Farm-of-Pets-0.4.3-pilot.apk

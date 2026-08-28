@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.4.2",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.2-pilot.apk",
-  "sha256": "a1f93f417b0059e0f9428574407526b857cee3c94b3093d7eeac937d75bfdc1a",
-  "releaseNotes": "Javni profil Marketa ima zdaj štiri profesionalne naslovne predloge: podeželsko kmetijo, perutnino in jajca, krave in koze ter domače pridelke. Predloge so že v aplikaciji in ne porabljajo prostora v oblaku. Še vedno lahko izbereš svojo fotografijo, jo zamenjaš ali naslovno sliko odstraniš; lastna slika se pred nalaganjem samodejno zmanjša.",
+  "versionCode": 30,
+  "versionName": "0.4.3",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.4.3-pilot.apk",
+  "sha256": "4e912ec70d7ebda1229070cb2ed40469d304da2fd38b9f3cffebd9361feac2d8",
+  "releaseNotes": "Pomembna obvestila se zdaj zbirajo v novem predalu Obvestila v aplikaciji in se prikažejo tudi kot Android obvestilo. Vključeni so opomniki, družinska povabila, Market, opozorila, varnostne kopije in posodobitve. V Mojem računu je dodan neposreden dostop do profila za Market.",
   "required": false
 }
