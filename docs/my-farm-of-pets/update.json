@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.5.3",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.3-pilot.apk",
-  "sha256": "e1949214457510cbde33035cdcc78e2c394675bbff637fb399ee6e610343632b",
-  "releaseNotes": "Večserijske inkubacije zdaj podpirajo različne vrste jajc, zamaknjeno načrtovanje do skupnega valjenja, opomnike, poznejše dodajanje ali odvzem ter popolno zgodovino vsake serije. Nova zaloga hrane beleži nabavo, vreče in kilograme, recepte oziroma mešanice, krmljenje, izgube, opozorilne pragove in samodejno dnevno porabo. Živali in skupine lahko razporediš v poljubne mape, celotna družina pa dobi tihi sledljivi dnevnik sprememb. Vsi novi podatki so vključeni v varnostne kopije, sektorsko čiščenje in družinsko sinhronizacijo.",
+  "versionCode": 36,
+  "versionName": "0.5.4",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.4-pilot.apk",
+  "sha256": "f0436b86bd9569ec481b1f144cd097468c38e86c9ce99653720d338adf4fcf3b",
+  "releaseNotes": "Mape živali so zdaj dostopne neposredno med dodajanjem nove skupine ali živali: izbereš lahko eno ali več map in novo mapo ustvariš brez zapiranja obrazca. Odprti seznam map se po ustvarjanju, preimenovanju ali brisanju takoj osveži. Prenovljeni prazni zasloni za zalogo hrane, inkubator in vzrejo pod lučko ter nežno ozadje izboljšajo preglednost aplikacije.",
   "required": false
 }
