@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.5.4",
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.4-pilot.apk",
-  "sha256": "f0436b86bd9569ec481b1f144cd097468c38e86c9ce99653720d338adf4fcf3b",
-  "releaseNotes": "Mape živali so zdaj dostopne neposredno med dodajanjem nove skupine ali živali: izbereš lahko eno ali več map in novo mapo ustvariš brez zapiranja obrazca. Odprti seznam map se po ustvarjanju, preimenovanju ali brisanju takoj osveži. Prenovljeni prazni zasloni za zalogo hrane, inkubator in vzrejo pod lučko ter nežno ozadje izboljšajo preglednost aplikacije.",
+  "versionCode": 37,
+  "versionName": "0.5.5",
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/my-farm-of-pets/releases/My-Farm-of-Pets-0.5.5-pilot.apk",
+  "sha256": "ec15ce9edea33a05fc07de99ed14fd6df7c5bdc81ef2f07dc8b5f4074705269a",
+  "releaseNotes": "Odpravljeno je zamrzovanje ob začetku inkubacije in načrtovanju dodatne serije jajc. Pri naknadnem dodajanju jajc lahko zdaj izbereš dejanski datum od začetka inkubacije do danes, tudi včerajšnji pozabljeni vnos; predvidena valitev in zgodovina se preračunata po tem datumu. Izboljšane so samodejne varnostne kopije: pilotski APK se varno poveže z oblakom, napake se ne ponavljajo po nepotrebnem, v nastavitvah pa je viden status in na voljo ročno takojšnje shranjevanje.",
   "required": false
 }
