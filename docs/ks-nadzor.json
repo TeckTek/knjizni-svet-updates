@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.3",
-    "versionCode":  32,
-    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.2.3/KS-Nadzor-3.2.3.apk",
-    "sha256":  "E8CFA7D1D8CF4F99E06E1485375D4F531204EC317024A6D6BEC02B4416417459",
-    "notes":  "Nazaj odpre prejšnji KSN-zaslon; na Domu prvi pritisk opozori, drugi pa zapre aplikacijo. Izdaja uvaja trajni KSN podpisnik. Starejši KSN je treba pred tem enkrat odstraniti; naslednje posodobitve bodo običajne."
+    "version":  "3.2.4",
+    "versionCode":  33,
+    "apkUrl":  "https://github.com/TeckTek/knjizni-svet-updates/releases/download/ks-nadzor-v3.2.4/KS-Nadzor-3.2.4.apk",
+    "sha256":  "F6B16B8A24DDB09FAE3849351B58E94BD8FEB98D40FFD4767A7B98D1DE7C2DA8",
+    "notes":  "Klik skrbniškega obvestila zdaj odpre pravo področje in poudari konkretni zapis. Pregled ima neposredne bližnjice do novih uporabnikov, komentarjev, prijav, odobritev ter prošenj testerjev."
 }
