@@ -1,8 +1,8 @@
 {
-  "version": "0.25.646",
-  "versionCode": 688,
+  "version": "0.25.648",
+  "versionCode": 690,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Izbris lastnega sporočila v Klepetu je viden takoj, preverjanje Play posodobitev pa deluje tudi ob začasnem izpadu spletne strani.",
-  "publishedAt": "2026-09-28T15:09:53.000Z"
+  "summary": "Zaključek branja, medalje in brisanje sporočil so zanesljivejši.",
+  "publishedAt": "2026-09-28T18:35:30.000Z"
 }
