@@ -1,8 +1,8 @@
 {
-  "version": "0.25.661",
-  "versionCode": 703,
+  "version": "0.25.662",
+  "versionCode": 704,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Sinhronizacija knjižnice po varnostni zavrnitvi ne ponavlja več zahtev v ozadju; lokalni podatki ostanejo shranjeni do ročne uskladitve.",
-  "publishedAt": "2026-09-30T11:29:51.910Z"
+  "summary": "Začetek branja nove knjige je jasno označen; Klepet med drsenjem ali pisanjem odloži težko osveževanje in ga varno nadaljuje po koncu interakcije.",
+  "publishedAt": "2026-09-30T12:46:48.175Z"
 }
