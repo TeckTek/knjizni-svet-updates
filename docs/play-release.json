@@ -1,8 +1,8 @@
 {
-  "version": "0.25.660",
-  "versionCode": 702,
+  "version": "0.25.661",
+  "versionCode": 703,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Barvne ikone v Mojih knjigah so preglednejše v svetlem in temnem načinu; filter Arhiv je enotno prikazan z ikono, števcem in boljšim kontrastom.",
-  "publishedAt": "2026-09-30T10:16:33.809Z"
+  "summary": "Sinhronizacija knjižnice po varnostni zavrnitvi ne ponavlja več zahtev v ozadju; lokalni podatki ostanejo shranjeni do ročne uskladitve.",
+  "publishedAt": "2026-09-30T11:29:51.910Z"
 }
