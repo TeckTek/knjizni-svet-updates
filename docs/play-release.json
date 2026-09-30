@@ -1,8 +1,8 @@
 {
-  "version": "0.25.662",
-  "versionCode": 704,
+  "version": "0.25.663",
+  "versionCode": 705,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Začetek branja nove knjige je jasno označen; Klepet med drsenjem ali pisanjem odloži težko osveževanje in ga varno nadaljuje po koncu interakcije.",
-  "publishedAt": "2026-09-30T12:46:48.175Z"
+  "summary": "Bralna knjižnica pošlje le dejanske spremembe; Klepet TBD prikaže najnovejša sporočila na vrhu in med osveževanjem ohrani mesto branja.",
+  "publishedAt": "2026-09-30T14:27:43.516Z"
 }
