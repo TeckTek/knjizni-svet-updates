@@ -1,8 +1,8 @@
 {
-  "version": "0.25.664",
-  "versionCode": 706,
+  "version": "0.25.666",
+  "versionCode": 708,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Klepet v živo se zanesljivo naloži tudi pri polni strani sporočil; zaključena bralna seja se ne vrne več kot lažni premor, preverjanje knjige pa pravilno prepozna več potrjenih avtorjev.",
-  "publishedAt": "2026-10-01T06:31:52.570Z"
+  "summary": "Tipkovnica pri vnosu knjige ne premika več vidnega polja; bralni čas se ob sinhronizaciji ali vrnitvi ne zmanjša, zakasnjen odgovor pa ne preklopi sam teka ali pavze.",
+  "publishedAt": "2026-10-01T08:54:00.000Z"
 }
