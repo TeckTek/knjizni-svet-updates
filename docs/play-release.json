@@ -1,8 +1,8 @@
 {
-  "version": "0.25.666",
-  "versionCode": 708,
+  "version": "0.25.672",
+  "versionCode": 714,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Tipkovnica pri vnosu knjige ne premika več vidnega polja; bralni čas se ob sinhronizaciji ali vrnitvi ne zmanjša, zakasnjen odgovor pa ne preklopi sam teka ali pavze.",
-  "publishedAt": "2026-10-01T08:54:00.000Z"
+  "summary": "Iskalni predlogi po hitrem zadetku indeksa ne izginejo več. Dopolnjevanje iz zunanjih virov ponovno uporabi isti rezultat in se vedno zaključi v omejenem času.",
+  "publishedAt": "2026-10-03T00:38:52.000Z"
 }
