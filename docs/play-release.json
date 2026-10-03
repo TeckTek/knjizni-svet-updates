@@ -1,8 +1,8 @@
 {
-  "version": "0.25.675",
-  "versionCode": 717,
+  "version": "0.25.680",
+  "versionCode": 722,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Števec Klepeta v živo upošteva samo dosegljiva sporočila, zato stare skrite objave ne povzročajo več lažnih neprebranih sporočil.",
-  "publishedAt": "2026-10-03T04:06:14.000Z"
+  "summary": "Enoten klepet s pravilnimi avtorji, zasebna zgodovina bralne aktivnosti, lestvica TOP bralcev in odpravljeno podvajanje enkratnih medalj.",
+  "publishedAt": "2026-10-03T15:54:41.774Z"
 }
