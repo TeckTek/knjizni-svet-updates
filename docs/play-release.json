@@ -1,8 +1,8 @@
 {
-  "version": "0.25.680",
-  "versionCode": 722,
+  "version": "0.25.681",
+  "versionCode": 723,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Enoten klepet s pravilnimi avtorji, zasebna zgodovina bralne aktivnosti, lestvica TOP bralcev in odpravljeno podvajanje enkratnih medalj.",
-  "publishedAt": "2026-10-03T15:54:41.774Z"
+  "summary": "Skrbnik lahko odobri prijavljeno branje brez obrazložitve, moderator pa ima za zahtevani dokaz zdaj jasno vidno vnosno polje.",
+  "publishedAt": "2026-10-03T22:01:08.000Z"
 }
