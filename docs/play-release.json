@@ -1,8 +1,8 @@
 {
-  "version": "0.25.682",
-  "versionCode": 724,
+  "version": "0.25.683",
+  "versionCode": 725,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Zagon aplikacije je hitrejši; Forum, Market, izzivi in lestvice uporabijo predpomnilnik ter se osvežijo ob odprtju, enoten razporejevalnik pa zmanjša podvojene zahteve.",
-  "publishedAt": "2026-10-03T22:29:53.000Z"
+  "summary": "Mirnejši zagon in osveževanje, popravljeni števci Skupnosti in oznake novih sporočil, drsenje zgodovine ter skeniranje obrnjene črtne kode. Nepopolni prevodi ne prekinejo odpiranja strani.",
+  "publishedAt": "2026-10-04T11:12:24.955Z"
 }
