@@ -1,8 +1,8 @@
 {
-  "version": "0.25.697",
-  "versionCode": 739,
+  "version": "0.25.698",
+  "versionCode": 740,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Zanesljivejša potrditev forumskih obvestil: prebrani dogodki ostanejo prebrani po ponovnem zagonu, novi všečki pa so ločeni od starih odgovorov. Zakasneli odgovori prejšnjega računa ne spreminjajo obvestil drugega računa.",
-  "publishedAt": "2026-10-09T17:09:23.957Z"
+  "summary": "Varnejši osnutki branja ob menjavi računa in prikaz skrbniških obvestil glede na trenutno vlogo. Ohranjena je zanesljiva potrditev forumskih obvestil: prebrani dogodki ostanejo prebrani, poznejši všečki pa so novi do pregleda.",
+  "publishedAt": "2026-10-09T17:42:58.289Z"
 }
