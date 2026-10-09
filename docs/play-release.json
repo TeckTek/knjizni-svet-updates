@@ -1,8 +1,8 @@
 {
-  "version": "0.25.684",
-  "versionCode": 726,
+  "version": "0.25.696",
+  "versionCode": 738,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Mirnejši Dom; dopolnitve opisa knjige ohranijo neshranjene zapiske in napredek. Dnevnik se prilega zaslonu tudi pri večji pisavi. Izposojene e-knjige lahko spremljaš po straneh brez uvoza datoteke; izboljšana opozorila pri podvojenih vnosih.",
-  "publishedAt": "2026-10-04T15:25:53.424Z"
+  "summary": "Izboljšana zgodovina forumskih obvestil po ponovnem zagonu in delnem nalaganju sob. Ohranijo se nastavitve obvestil in dosedanja zgodovina branja.",
+  "publishedAt": "2026-10-09T15:25:47.000Z"
 }
