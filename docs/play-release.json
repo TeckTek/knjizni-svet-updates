@@ -1,8 +1,8 @@
 {
-  "version": "0.25.698",
-  "versionCode": 740,
+  "version": "0.25.701",
+  "versionCode": 743,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Varnejši osnutki branja ob menjavi računa in prikaz skrbniških obvestil glede na trenutno vlogo. Ohranjena je zanesljiva potrditev forumskih obvestil: prebrani dogodki ostanejo prebrani, poznejši všečki pa so novi do pregleda.",
-  "publishedAt": "2026-10-09T17:42:58.289Z"
+  "summary": "Označitev pogovorov kot prebranih počaka na potrjen strežniški odgovor. Marketov gumb upošteva tudi zasebna obvestila. Zapozneli odgovori stare prijave ne spreminjajo novih števcev. Zasebna Android obvestila preverijo trenutni račun. Ročno shranjevanje knjig še zahteva strežniško objavo.",
+  "publishedAt": "2026-10-10T04:27:27Z"
 }
