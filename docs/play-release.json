@@ -1,8 +1,14 @@
 {
-  "version": "0.25.701",
-  "versionCode": 743,
+  "version": "0.25.700",
+  "versionCode": 742,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Označitev pogovorov kot prebranih počaka na potrjen strežniški odgovor. Marketov gumb upošteva tudi zasebna obvestila. Zapozneli odgovori stare prijave ne spreminjajo novih števcev. Zasebna Android obvestila preverijo trenutni račun. Ročno shranjevanje knjig še zahteva strežniško objavo.",
-  "publishedAt": "2026-10-10T04:27:27Z"
+  "summary": "Različica 0.25.700 je na voljo izbranim Alpha testerjem. Različica 0.25.701 je še v Googlovem pregledu in je še ne ponujamo kot dostopno posodobitev. Ročno dodajanje knjig še zahteva strežniško objavo.",
+  "verifiedAt": "2026-10-11T18:13:26Z",
+  "availabilityEvidence": "play-console-available-to-selected-testers",
+  "pendingRelease": {
+    "version": "0.25.701",
+    "versionCode": 743,
+    "status": "in-review"
+  }
 }
