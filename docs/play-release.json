@@ -1,10 +1,10 @@
 {
-  "version": "0.25.743",
-  "versionCode": 785,
+  "version": "0.25.744",
+  "versionCode": 786,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Različica 0.25.743 je na voljo izbranim Alpha testerjem: stabilnejši dnevni izbor, manj nepotrebnih prenosov profila in dopolnjeni prevodi. Ročno dodajanje knjig in pripravljeni strežniški popravki še zahtevajo ločeno varno objavo.",
-  "publishedAt": "2026-10-20T13:15:18Z",
-  "verifiedAt": "2026-10-20T14:31:04Z",
+  "summary": "Na voljo izbranim Alpha testerjem: uvoz Goodreads ohrani zapiske in zgodovino, prevodi Plus se nalagajo ob uporabi, zgodovina obnovi Plus. Ročni vnos knjig in strežniški popravki še čakajo ločeno varno objavo.",
+  "publishedAt": "2026-10-20T16:22:02.936Z",
+  "verifiedAt": "2026-10-20T17:44:33Z",
   "availabilityEvidence": "tester-confirmed-google-play-update-offered"
 }
