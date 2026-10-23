@@ -1,10 +1,10 @@
 {
-  "version": "0.25.771",
-  "versionCode": 813,
+  "version": "0.25.773",
+  "versionCode": 815,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Potrjeno na voljo izbranim Alpha testerjem: stabilnejši položaj pri osveževanju in navigaciji ter jasnejša nastavitev knjižnega ozadja. Ohranjene izboljšave Foruma, Marketa in klepeta. Ročni vnos knjig še čaka ločeno varno strežniško objavo.",
-  "publishedAt": "2026-10-23T16:58:00Z",
-  "verifiedAt": "2026-10-23T16:58:00Z",
-  "availabilityEvidence": "tester-confirmed-google-play-update-offered"
+  "summary": "Različica 773: varnejše obnavljanje naslovnic in ponovni poskus po izgubljenem odgovoru pri shranjevanju. Ročni vnos knjig še čaka ločeno varno strežniško objavo.",
+  "publishedAt": "2026-10-23T17:44:40Z",
+  "verifiedAt": "2026-10-23T18:50:12Z",
+  "availabilityEvidence": "tester-confirmed-google-play-installed"
 }
