@@ -1,10 +1,10 @@
 {
-  "version": "0.25.773",
-  "versionCode": 815,
+  "version": "0.25.774",
+  "versionCode": 816,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Različica 773: varnejše obnavljanje naslovnic in ponovni poskus po izgubljenem odgovoru pri shranjevanju. Ročni vnos knjig še čaka ločeno varno strežniško objavo.",
-  "publishedAt": "2026-10-23T17:44:40Z",
-  "verifiedAt": "2026-10-23T18:50:12Z",
+  "summary": "Različica 774: klepet ob vrnitvi ohrani položaj med starejšimi sporočili, nalaganje pa ostane označeno do konca prenosa. Drsnik knjižnega ozadja med potezo ostane na mestu. Izboljšan dnevni izbor po lokalni polnoči. Ročni vnos knjig še čaka ločeno varno strežniško objavo.",
+  "publishedAt": "2026-10-23T22:14:10Z",
+  "verifiedAt": "2026-10-23T22:44:34Z",
   "availabilityEvidence": "tester-confirmed-google-play-installed"
 }
