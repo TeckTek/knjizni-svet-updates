@@ -1,10 +1,10 @@
 {
-  "version": "0.25.781",
-  "versionCode": 823,
+  "version": "0.25.795",
+  "versionCode": 837,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Različica 781 izboljša knjigo dneva pri počasnem ali delnem nalaganju priporočil: začasni enoknjižni odgovor ne zaklene starega naslova za ves dan, kartica pa se dopolni na svojem mestu. Ohranjeni so skrite kartice, zasebno ročno dodajanje knjig in preverjanje različice v ozadju. Prenos v skupni katalog še ni vklopljen.",
-  "publishedAt": "2026-10-26T14:58:34.514Z",
-  "verifiedAt": "2026-10-26T16:00:36Z",
-  "availabilityEvidence": "tester-confirmed-google-play-update-offered"
+  "summary": "Nova podoba s tremi temami, jasnejši prikaz nalaganja in popravki vnosa v domačem klepetu. Potrjena je namestitev različice 795 pri testerju. Prenos aplikacije na novi strežnik in prenos zasebnih vnosov v skupni katalog še nista vklopljena.",
+  "publishedAt": "2026-11-02T07:21:40Z",
+  "verifiedAt": "2026-11-02T07:21:40Z",
+  "availabilityEvidence": "tester-confirmed-installed-release"
 }
