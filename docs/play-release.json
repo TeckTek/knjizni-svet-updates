@@ -1,10 +1,10 @@
 {
-  "version": "0.25.795",
-  "versionCode": 837,
+  "version": "0.25.797",
+  "versionCode": 839,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Nova podoba s tremi temami, jasnejši prikaz nalaganja in popravki vnosa v domačem klepetu. Potrjena je namestitev različice 795 pri testerju. Prenos aplikacije na novi strežnik in prenos zasebnih vnosov v skupni katalog še nista vklopljena.",
-  "publishedAt": "2026-11-02T07:21:40Z",
-  "verifiedAt": "2026-11-02T07:21:40Z",
-  "availabilityEvidence": "tester-confirmed-installed-release"
+  "summary": "Stabilnejši forum, ohranjen iskalni vnos pri osvežitvi in manj odvečnega pregledovanja strani. Tester je potrdil, da Google Play ponuja posodobitev 797. Prenos aplikacije na novi strežnik in prenos zasebnih vnosov v skupni katalog še nista vklopljena.",
+  "publishedAt": "2026-11-02T20:45:30Z",
+  "verifiedAt": "2026-11-02T20:45:30Z",
+  "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
