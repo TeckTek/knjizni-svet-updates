@@ -1,10 +1,10 @@
 {
-  "version": "0.25.798",
-  "versionCode": 840,
+  "version": "0.25.800",
+  "versionCode": 842,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Manj ponavljajočega se pregledovanja odprte strani, poenotene ikone menija in možnost kopiranja podatkov napake kviza. Tester je potrdil namestitev 798 iz Google Playa na S25. Migracija aplikacije in prenos zasebnih vnosov v skupni katalog še nista vklopljena.",
-  "publishedAt": "2026-11-03T00:05:06.606Z",
-  "verifiedAt": "2026-11-03T00:05:06.606Z",
-  "availabilityEvidence": "tester-confirmed-play-update-installed"
+  "summary": "Preglednejše nastavitve z zložljivimi razdelki, poenotene knjižne ikone in izboljšave prikaza v skupnosti. Tester je potrdil, da Google Play na S25 ponuja posodobitev 800. Migracija aplikacije in prenos zasebnih vnosov v skupni katalog še nista vklopljena.",
+  "publishedAt": "2026-11-03T06:06:48.000Z",
+  "verifiedAt": "2026-11-03T06:06:48.000Z",
+  "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
