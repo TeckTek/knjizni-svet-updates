@@ -1,10 +1,10 @@
 {
-  "version": "0.25.801",
-  "versionCode": 843,
+  "version": "0.25.804",
+  "versionCode": 846,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Nastavitve v zahtevanem vrstnem redu, hitre nastavitve obvestil pod Obvestili ter stabilnost in zasebnost v skupnem razdelku. Izboljšano ohranjanje položaja klepeta med branjem. Tester je potrdil, da Google Play na S25 ponuja posodobitev 801. Migracija aplikacije še ni vklopljena.",
-  "publishedAt": "2026-11-03T09:02:57Z",
-  "verifiedAt": "2026-11-03T09:02:57Z",
+  "summary": "Podatki in pomoč ob napaki preverjanja knjige so dostopni tudi običajnim bralcem. Izboljšana sta ponovni poskus brez povezave in potrjevanje prebranih sporočil med računi. Tester na S25 trenutno vidi izdajo 804; novejše 805 še ne oglašujemo. Migracija aplikacije še ni vklopljena.",
+  "publishedAt": "2026-11-04T00:17:35.646Z",
+  "verifiedAt": "2026-11-04T00:17:35.646Z",
   "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
