@@ -1,10 +1,10 @@
 {
-  "version": "0.25.804",
-  "versionCode": 846,
+  "version": "0.25.808",
+  "versionCode": 850,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Podatki in pomoč ob napaki preverjanja knjige so dostopni tudi običajnim bralcem. Izboljšana sta ponovni poskus brez povezave in potrjevanje prebranih sporočil med računi. Tester na S25 trenutno vidi izdajo 804; novejše 805 še ne oglašujemo. Migracija aplikacije še ni vklopljena.",
-  "publishedAt": "2026-11-04T00:17:35.646Z",
-  "verifiedAt": "2026-11-04T00:17:35.646Z",
+  "summary": "Usklajen videz skupnosti, branja in e-knjig v treh temah ter jasnejši prikaz napak javnega profila. Izboljšan je položaj vnosa sporočila ob odprti tipkovnici. Posodobitev 808 je potrjeno na voljo testerju na S25. Migracija aplikacije še ni vklopljena.",
+  "publishedAt": "2026-11-04T11:34:57.153Z",
+  "verifiedAt": "2026-11-04T11:34:57.153Z",
   "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
