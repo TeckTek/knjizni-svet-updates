@@ -1,10 +1,10 @@
 {
-  "version": "0.25.816",
-  "versionCode": 858,
+  "version": "0.25.818",
+  "versionCode": 860,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Forum ob osveževanju spoštuje izrecno skrita imena. Napredek, Market, Forum in Klepet imajo ikone v slogu izbrane teme, gumbi pa ostanejo enako visoki tudi pri večji pisavi. Posodobitev 816 je potrjeno ponujena testerju na S25. Migracija aplikacije še ni vklopljena.",
-  "publishedAt": "2026-11-06T03:52:38Z",
-  "verifiedAt": "2026-11-06T06:13:10Z",
+  "summary": "Ohranjeni podatki o naslovnicah, izvirnih naslovih in veljavnih ISBN-jih. Nastavitve so urejene v zložljive sklope. Prazen javni del Skupnosti ne blokira več označevanja zasebnih pogovorov kot prebranih. Posodobitev 818 je potrjeno ponujena testerju na S25. Migracija aplikacije še ni vklopljena.",
+  "publishedAt": "2026-11-06T09:08:49Z",
+  "verifiedAt": "2026-11-06T09:50:27Z",
   "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
