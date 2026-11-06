@@ -1,10 +1,10 @@
 {
-  "version": "0.25.818",
-  "versionCode": 860,
+  "version": "0.25.820",
+  "versionCode": 862,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Ohranjeni podatki o naslovnicah, izvirnih naslovih in veljavnih ISBN-jih. Nastavitve so urejene v zložljive sklope. Prazen javni del Skupnosti ne blokira več označevanja zasebnih pogovorov kot prebranih. Posodobitev 818 je potrjeno ponujena testerju na S25. Migracija aplikacije še ni vklopljena.",
-  "publishedAt": "2026-11-06T09:08:49Z",
-  "verifiedAt": "2026-11-06T09:50:27Z",
+  "summary": "Stabilnejše nalaganje manjkajočih naslovnic v Odkrij in Moje knjige. Pridobljene naslovnice se ohranijo pri isti knjigi in izdaji. Nespremenjeno obvestilo o posodobitvi ohrani gumbe in fokus. Posodobitev 820 je potrjeno ponujena testerju na S25. Migracija aplikacije še ni vklopljena.",
+  "publishedAt": "2026-11-06T11:20:25.745Z",
+  "verifiedAt": "2026-11-06T12:02:23Z",
   "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
