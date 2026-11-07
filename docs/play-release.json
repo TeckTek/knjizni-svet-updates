@@ -1,10 +1,10 @@
 {
-  "version": "0.25.824",
-  "versionCode": 866,
+  "version": "0.25.826",
+  "versionCode": 868,
   "distribution": "google-play",
   "installUrl": "https://play.google.com/store/apps/details?id=si.knjigeai.pilot",
-  "summary": "Jasnejše obvestilo, če se podatki knjige med pripravo kviza posodobijo. Oznake žanra in jezika sledijo izbrani temi. Ohranjene izboljšave okvirjev in nastavitev. Posodobitev 824 je potrjeno ponujena testerju na S25. Migracija aplikacije še ni vklopljena.",
-  "publishedAt": "2026-11-07T11:17:16.271Z",
-  "verifiedAt": "2026-11-07T12:00:55Z",
+  "summary": "Dopolnjeni okvirji kartic bralne statistike in ročnega dodajanja knjige. Ponovno odpiranje že odobrenega preverjanja ohrani sprejeto odločitev. Posodobitev 826 je potrjeno ponujena testerju na S25. Migracija aplikacije še ni vklopljena.",
+  "publishedAt": "2026-11-07T16:42:10Z",
+  "verifiedAt": "2026-11-07T17:41:46.121Z",
   "availabilityEvidence": "tester-confirmed-play-update-offered"
 }
