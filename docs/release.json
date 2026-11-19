@@ -1,6 +1,9 @@
 {
-  "version": "0.25.666",
-  "versionCode": 708,
-  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/releases/Knjizni-Svet-0.25.666.apk",
-  "sha256": "97E92266301F8144BFA79833D5D3DF90C79E18C4E220D0252B351BDF0280AA42"
+  "version": "0.25.843",
+  "versionCode": 903,
+  "apkUrl": "https://tecktek.github.io/knjizni-svet-updates/releases/Knjizni-Svet-0.25.843.apk",
+  "sha256": "D91598340C48014E384F0BF7EE4932BA39E22BB57B1260961D5656563D94ECA8",
+  "minimumAndroidApi": 24,
+  "publishedAt": "2026-11-19T10:04:03.000Z",
+  "summary": "Aktualni popravki, Skrivnostne kuverte in usklajen Netcup splet. Neposredna APK izdaja; brez nove objave v Google Play."
 }
